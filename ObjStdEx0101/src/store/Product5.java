@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 packege store;
 
 public class Product5 {
